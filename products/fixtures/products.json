@@ -1,0 +1,134 @@
+[
+    {
+        "pk": 1,
+        "model": "products.product",
+        "fields": {
+            "name": "Rao’s Homemade Marinara Sauce",
+            "description": "Store-bought spaghetti sauces are often full of sugar and additives, but Rao’s is a keto-friendly alternative made with just tomatoes, olive oil, and seasonings. A 1/2 cup (125 gram) serving contains just 5 grams of net carbs.",
+            "price": 5.99,
+            "rating": 4.3,
+            "image": "DP0709201205510679M.jpg"
+        }
+    },
+    {
+        "pk": 2,
+        "model": "products.product",
+        "fields": {
+            "name": "Primal Kitchen Ketchup",
+            "description": "Ketchup is another condiment that’s traditionally packed with sugar. However, this ketchup from Primal Kitchen is unsweetened and contains just 2 grams net carbs per tablespoon (15 grams).",
+            "price": 3.99,
+            "rating": 4.6,
+            "image": "DP0113201617034987M.jpg"
+        }
+    },
+    {
+        "pk": 3,
+        "model": "products.product",
+        "fields": {
+            "name": "Fat Snax Almond Flour Crackers",
+            "description": "These new almond flour crackers from Fat Snax come in classic cracker flavors like Cheddar, sea salt, and “everything” seasoning.They’re also made with high quality ingredients and contain just 2 grams of net carbs per 11-cracker (20-gram) serving.Best of all, they’re crunchy and hold up well to dips and spreads.",
+            "price": 12.50,
+            "rating": 4.7,
+            "image": "DP1230201417013175M.jpg"
+        }
+    },
+    {
+        "pk": 4,
+        "model": "products.product",
+        "fields": {
+            "name": "Kalahari Crisps Air-Dried Beef Chips",
+            "description": "If you’re looking for a crunchy and filling snack, try these beef chips from Kalahari Crisps. Unlike most beef jerkies, they contain no added sugar and less than 1 gram of carbs in an entire bag (28 grams).  They’re also free of preservatives and additives, and one bag packs a whopping 20 grams of protein.",
+            "price": 2.99,
+            "rating": 3.0,
+            "image": "DP0716201503423610M.jpg"
+        }
+    },
+    {
+        "pk": 5,
+        "model": "products.product",
+        "fields": {
+            "name": "Goodfish Crispy Salmon Skin Chips",
+            "description": "These salmon skin chips are a fresh take on pork rinds, made instead with skin from sustainably sourced, wild-caught Alaskan salmon. They come in various flavors like chili lemon, spicy BBQ, salted, and tart cranberry.Best of all, one bag (15 grams) contains 0 grams of carbs and 10 grams of protein.",
+            "price": 3.99,
+            "rating": 5.0,
+            "image": "DP1115201210371197C.jpg"
+        }
+    },
+    {
+        "pk": 6,
+        "model": "products.product",
+        "fields": {
+            "name": "gimMe Organic Roasted Seaweed Sheets",
+            "description": "These salty and crispy roasted seaweed snacks from gimMe are satisfying and flavorful, and they provide only 25 calories and 0 grams of net carbs per package (5 grams).They also come in a variety of flavors like sea salt and avocado oil, extra virgin olive oil, and teriyaki — and each flavor is made with organic, vegan ingredients."
+            "price": 15.99,
+            "rating": 4.2,
+            "image": "DP0624201520422666C.jpg"
+        }
+    },
+    {
+        "pk": 7,
+        "model": "products.product",
+        "fields": {
+            "name": "Flock Chicken Skin Chips",
+            "description": "Another flavorful alternative to pork rinds, these chicken skin chips are crunchy and can hold up well to your favorite keto-friendly dips. One package (28 grams) of the original flavor is free of carbs but packed with fat and protein, making it an excellent keto-friendly choice.",
+            "price": 4.00,
+            "rating": 4.4,
+            "image": "DP0226201317034754M.jpg"
+        }
+    },
+    {
+        "pk": 8,
+        "model": "products.product",
+        "fields": {
+            "name": "Hungry Buddha Keto Bars",
+            "description": "These fiber-rich bars feature pea protein and coconut as their star ingredients, and they’re sweetened with monk fruit. Available flavors are chocolate chip, coconut cocoa, espresso brownie, and triple chocolate. These bars are also plant-based and provide 9 grams of protein, 11 grams of healthy fat, and just 4 grams of net carbs per bar (40 grams).": false,
+            "price": 12.99,
+            "rating": 4.5,
+            "image": "DP0926201317071162M.jpg"
+        }
+    },
+    {
+        "pk": 9,
+        "model": "products.product",
+        "fields": {
+            "name": "Good To Go Soft-Baked Keto Bars",
+            "description": "Good To Go’s line of soft-baked bars contains just 2–3 grams of net carbs per bar (40 grams), depending on the flavor. These bars have a cake-like texture, making them great for a standalone snack or dessert.They’re made with high quality ingredients and come in several flavors, like blueberry cashew, vanilla almond, cinnamon pecan, raspberry lemon, and strawberry macadamia nut.",
+            "price": 3.99,
+            "rating": 5.0,
+            "image": "DP1020201517025390M.jpg"
+        }
+    },
+    {
+        "pk": 10,
+        "model": "products.product",
+        "fields": {
+            "name": "Good Good Krunchy Keto Salty Caramel Nut Bars",
+            "description": "While they pack 9 grams of protein and just 2 grams of net carbs per bar (35 grams), Krunchy Keto Bars are more like a candy bar than a protein bar. They’re sweetened with stevia and erythritol, a sugar alcohol, as well as dipped in a milk chocolate coating.",
+            "price": 2.99,
+            "rating": 4.4,
+            "image": "DP0418201317011949M.jpg"
+        }
+    },
+    {
+        "pk": 11,
+        "model": "products.product",
+        "fields": {
+            "name": "Palmini Lasagna Sheets",
+            "description": "If you’ve been doing keto for a while, you may have already tried zucchini or shirataki noodles. However, many people consider these noodles from Palmini, which are made from hearts of palm, to be an even better pasta alternative. A 2.6-ounce (75-gram) serving provides just 2 grams of net carbs, and Palmini offers linguine noodles, lasagna sheets, and angel hair pasta.",
+            "price": 7.99,
+            "rating": 3.0,
+            "image": "0900631B81B0C2D9M.jpg"
+        }
+    },
+    {
+        "pk": 12,
+        "model": "products.product",
+        "fields": {
+            "name": "Folios Cheese Wraps",
+            "description": "Folios are thin wraps simply made from cheese. They’re great for sandwiches, wraps, and tacos, and you can also crisp them to make edible bowls or eat them alone as a snack.Because they contain only cheese, they’re low in net carbs — containing zero grams per wrap — and packed with fat and protein. Folios are available in Cheddar, Parmesan, and Jarlsberg flavors.",
+            "price": 5.99,
+            "rating": 4.6,
+            "image": "DP0510201317010521M.jpg"
+        }
+    }
+]
