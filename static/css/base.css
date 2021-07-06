@@ -26,6 +26,15 @@ body {
     color: white;
 }
 
+.nav-font {
+    text-transform: uppercase;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 1.5rem;
+}
+.nav-font:hover {
+    text-decoration: underline;
+}
+
 .main-logo {
     font-family: 'Bebas Neue', cursive;
     font-size: 3rem;
@@ -66,6 +75,14 @@ body {
 
 .border-black {
     border: 1px solid black !important;
+}
+
+.social-link {
+    color: white;
+}
+
+.social-link:hover {
+    color: #555;
 }
 
 /* -------------------------------- Media Queries */
