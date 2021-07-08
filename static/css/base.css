@@ -99,6 +99,10 @@ body {
     font-family: 'Bebas Neue', cursive;
 }
 
+.bag-buttons {
+    text-align: right;
+}
+
 /* -------------------------------- Media Queries */
 
 /* Slightly larger container on xl screens */
