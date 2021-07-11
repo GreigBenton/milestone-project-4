@@ -4,6 +4,8 @@ from django.contrib import messages
 from .models import Profile
 from .forms import ProfileForm
 
+from checkout.models import Order
+
 
 def profile(request):
     """ Display the user's profile. """
